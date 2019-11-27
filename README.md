@@ -88,15 +88,15 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 
 ## Atributos No Funcionales
 
-+ Usabilidad
++ **Usabilidad**
 
-+ Escalabilidad
++ **Escalabilidad**
 
-+ Disponibilidad
++ **Disponibilidad**
 
 Manejamos una unstancia EC2 en windows con amazon web services que garantiza que tengamos una operabilidad del 99% de nuestro servidor
 
-+ Rendimiento (Performance)
++ **Rendimiento (Performance)**
 
     + **Almacenamiento en cache**: Entonces, estamos usando webpack para agrupar nuestra aplicación modular que produce un       /distdirectorio desplegable . Una vez que el contenido de /distse haya implementado en un servidor, los clientes (generalmente los navegadores) accederán a ese servidor para capturar el sitio y sus activos.
 
