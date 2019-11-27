@@ -99,6 +99,12 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 + **Rendimiento (Performance)**
 
     + **Almacenamiento en cache**: Entonces, estamos usando webpack para agrupar nuestra aplicación modular que produce un       /distdirectorio desplegable . Una vez que el contenido de /distse haya implementado en un servidor, los clientes (generalmente los navegadores) accederán a ese servidor para capturar el sitio y sus activos.
+    
++ **Seguridad**
+    + **Servidor EC2 (windows)**:
+        + Grupo de seguridad habilitando solamente los puertos que usaremos en nuestra aplicación
+        + snapshots diarios que seran nuestro backup del servicio
+    
 
 ## Software posiblemente a usar para la iniciacion del proyecto.
 
