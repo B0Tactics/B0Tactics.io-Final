@@ -81,9 +81,6 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 
 ![](img/Casos_de_uso_user.PNG)
 
-## Diagrama de clases inicial
-
-![](img/Clases.PNG)
 
 ## Diagrama de despliegue
 
