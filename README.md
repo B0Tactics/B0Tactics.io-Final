@@ -86,6 +86,15 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 
 ![](img/deplyment.PNG)
 
+## Atributos No Funcionales
+
++ Usabilidad
+
++ Escalabilidad
+
++ Disponibilidad
+
++ Rendimiento (Performance)
 
 ## Software posiblemente a usar para la iniciacion del proyecto.
 
