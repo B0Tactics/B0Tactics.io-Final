@@ -109,5 +109,5 @@ https://github.com/B0Tactics/proyecto/blob/master/img/Manual%20de%20usuario.pdf
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/10c311dde512425c9dc49f0b071e4b52)](https://www.codacy.com/manual/nicolaspatino/proyecto?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=B0Tactics/proyecto&amp;utm_campaign=Badge_Grade)
 
 ## *juegue!*
-http://18.204.215.9:8080/
+http://54.167.73.186:8080/
 
