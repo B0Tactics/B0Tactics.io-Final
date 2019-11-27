@@ -17,8 +17,8 @@
 ## Resumen
 B0Tactics.io es una adaptación del juego agar.io en el cual el jugador compite contra otros jugadores por el primer puesto, la meta del juego es llegar a la mayor cantidad de puntos posibles alcanzables.
 
-![](img/index.png)
-![](img/game.png)
+![](img/index.PNG)
+![](img/game.PNG)
 
 
 ## ¿ Qué necesidad cubre nuestro producto ?
