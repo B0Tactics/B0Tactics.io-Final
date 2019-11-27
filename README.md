@@ -99,7 +99,7 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 
 + **Rendimiento (Performance)**
 
-    + **Almacenamiento en cache**: Entonces, estamos usando webpack para agrupar nuestra aplicación modular que produce un       /distdirectorio desplegable . Una vez que el contenido de /distse haya implementado en un servidor, los clientes (generalmente los navegadores) accederán a ese servidor para capturar el sitio y sus activos.
+    + **Almacenamiento en cache**: Entonces, estamos usando webpack para agrupar nuestra aplicación modular que produce un       /dist directorio desplegable . Una vez que el contenido de /dist se haya implementado en un servidor, los clientes (generalmente los navegadores) accederán a ese servidor para capturar el sitio y sus activos facilmente.
     
 + **Seguridad**
     + **Servidor EC2 (windows)**:
