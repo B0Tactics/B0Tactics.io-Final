@@ -89,14 +89,16 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 ## Atributos No Funcionales
 
 + **Usabilidad**
+    + **hasta mas de 30 usuarios compitiendo a la vez!**
+    + **se puede jugar desde cualquier dispositivo (pc, tablet, celular)**
 
 + **Escalabilidad**
+
 
 + **Disponibilidad**
 
     + Manejamos una instancia EC2 en windows con amazon web services que garantiza que tengamos una operabilidad del 99% de nuestro servidor las 24h del dia.
-    + **hasta mas de 30 usuarios compitiendo a la vez!**
-    + **se puede jugar desde cualquier dispositivo (pc, tablet, celular)**
+
 
 + **Rendimiento (Performance)**
 
