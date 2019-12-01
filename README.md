@@ -76,6 +76,9 @@ Al iniciar el juego el usuario aparece con un personaje de un tamaño predetermi
 _las historias de usuario estarán disponibles en el siguiente link:_
 https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 
+## Diagrama Arquitectura General
+
+![](img/arquitecture.png)
 
 ## Diagrama caso de uso usuario
 
@@ -89,10 +92,20 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 ## Atributos No Funcionales
 
 + **Usabilidad**
-    + **hasta mas de 30 usuarios compitiendo a la vez!**
     + **se puede jugar desde cualquier dispositivo (pc, tablet, celular)**
 
 + **Escalabilidad**
+    + **Información de la maquina**
+    ![](img/escalabilidad/CpuINFO.PNG)
+
+    + **Prueba de Rendimiento con +30 personas jugando**
+
+    como se puede observar simplemente lo maximo que se utilizo en la cpu fue un 2.98% porciento en ese lapso de tiempo donde estuvieron la mayoria de personas jugando, esto da como evidencia el buen performance en la maquina mas simple de AWS
+    ![](img/escalabilidad/prueba1CPU.PNG)
+
+    ![](img/escalabilidad/prueba2CPU.PNG)
+
+    en conclusion usando la maquina de AWS mas basica que es la free, logramos un Rendimiento increible asi que si se llegara a usar una maquina mas avanzada el proyecto puede crecer viablemente con nuevas funcionalidades.
 
 
 + **Disponibilidad**
