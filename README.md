@@ -98,7 +98,7 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 
     video:
     https://youtu.be/euKZh0vArDY
-    
+
     ![](img/usabilidad/prueba_Multiplataforma.gif)
 
 + **Escalabilidad**
@@ -108,7 +108,7 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
     + **Prueba de Rendimiento con +30 personas jugando**
 
     como se puede observar simplemente lo maximo que se utilizo en la cpu fue un 2.98% porciento en ese lapso de tiempo donde estuvieron la mayoria de personas jugando, esto da como evidencia el buen performance en la maquina mas simple de AWS
-    ![](img/escalabilidad/prueba1CPU.PNG)
+    ![](img/escalabilidad/prueba1CPU.png)
 
     ![](img/escalabilidad/prueba2CPU.PNG)
 
