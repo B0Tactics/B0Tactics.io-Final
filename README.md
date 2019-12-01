@@ -95,6 +95,9 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
     + **se puede jugar desde cualquier dispositivo (pc, tablet, celular)**
 
     Se hizo la prueba desde la aplicacion web "http://responsive-design.active-value.de/" alli se puede simular nuesra aplicacion sobre distintos tamaños de dispositivos.
+
+    video:
+    https://youtu.be/euKZh0vArDY
     
     ![](img/usabilidad/prueba_Multiplataforma.gif)
 
