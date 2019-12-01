@@ -93,6 +93,7 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 
 + **Usabilidad**
     + **se puede jugar desde cualquier dispositivo (pc, tablet, celular)**
+    ![](img/usabilidad/prueba_Multiplataforma.gif)
 
 + **Escalabilidad**
     + **Información de la maquina**
