@@ -93,6 +93,9 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 
 + **Usabilidad**
     + **se puede jugar desde cualquier dispositivo (pc, tablet, celular)**
+
+    Se hizo la prueba desde la aplicacion web "http://responsive-design.active-value.de/" alli se puede simular nuesra aplicacion sobre distintos tamaños de dispositivos.
+    
     ![](img/usabilidad/prueba_Multiplataforma.gif)
 
 + **Escalabilidad**
