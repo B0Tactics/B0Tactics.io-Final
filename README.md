@@ -20,6 +20,9 @@ B0Tactics.io es una adaptación del juego agar.io en el cual el jugador compite 
 ![](img/index.PNG)
 ![](img/game.PNG)
 
+## *juegue!*
+http://54.167.73.186:8080/
+
 
 ## ¿ Qué necesidad cubre nuestro producto ?
 cubre una necesidad de Entretenimiento en la industria de videojuegos que cada dia es mas demandada.
@@ -178,7 +181,3 @@ https://github.com/B0Tactics/proyecto/blob/master/img/Manual%20de%20usuario.pdf
 [![CircleCI](https://circleci.com/gh/B0Tactics/proyecto.svg?style=svg)](https://circleci.com/gh/B0Tactics)
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/10c311dde512425c9dc49f0b071e4b52)](https://www.codacy.com/manual/nicolaspatino/proyecto?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=B0Tactics/proyecto&amp;utm_campaign=Badge_Grade)
-
-## *juegue!*
-http://54.167.73.186:8080/
-
