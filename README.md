@@ -121,6 +121,8 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 
     + Manejamos una instancia EC2 en windows con amazon web services que garantiza que tengamos una operabilidad del 99% de nuestro servidor las 24h del dia.
 
+    ![](img/escalabilidad/CpuINFO.PNG)
+
 
 + # **Rendimiento (Performance)**
 
