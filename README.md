@@ -89,7 +89,7 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 
 ![](img/deplyment.PNG)
 
-## Atributos No Funcionales
+# **Atributos No Funcionales**
 
 + # **Usabilidad**
     + **se puede jugar desde cualquier dispositivo (pc, tablet, celular)**
@@ -117,7 +117,7 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
     en conclusion usando la maquina de AWS mas basica que es la free, logramos un Rendimiento increible asi que si se llegara a usar una maquina mas avanzada el proyecto puede crecer viablemente con nuevas funcionalidades.
 
 
-+ # **Disponibilidad**
++ # **Disponibilidad con AWS**
 
     + Manejamos una instancia EC2 en windows con amazon web services que garantiza que tengamos una operabilidad del 99% de nuestro servidor las 24h del dia.
 
