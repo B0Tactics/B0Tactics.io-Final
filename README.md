@@ -91,8 +91,10 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 
 ## Atributos No Funcionales
 
-+ **Usabilidad**
++ # **Usabilidad**
     + **se puede jugar desde cualquier dispositivo (pc, tablet, celular)**
+
+    ![](img/usabilidadGrafica.jpg)
 
     Se hizo la prueba desde la aplicacion web "http://responsive-design.active-value.de/" alli se puede simular nuesra aplicacion sobre distintos tamaños de dispositivos.
 
@@ -101,7 +103,7 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 
     ![](img/usabilidad/prueba_Multiplataforma.gif)
 
-+ **Escalabilidad**
++ # **Escalabilidad Vertical con AWS**
     + **Información de la maquina**
     ![](img/escalabilidad/CpuINFO.PNG)
 
@@ -115,19 +117,45 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
     en conclusion usando la maquina de AWS mas basica que es la free, logramos un Rendimiento increible asi que si se llegara a usar una maquina mas avanzada el proyecto puede crecer viablemente con nuevas funcionalidades.
 
 
-+ **Disponibilidad**
++ # **Disponibilidad**
 
     + Manejamos una instancia EC2 en windows con amazon web services que garantiza que tengamos una operabilidad del 99% de nuestro servidor las 24h del dia.
 
 
-+ **Rendimiento (Performance)**
++ # **Rendimiento (Performance)**
 
-    + **Almacenamiento en cache**: Entonces, estamos usando webpack para agrupar nuestra aplicación modular que produce un       /dist directorio desplegable . Una vez que el contenido de /dist se haya implementado en un servidor, los clientes (generalmente los navegadores) accederán a ese servidor para capturar el sitio y sus activos facilmente.
+    + **Almacenamiento en cache**
+        Entonces, estamos usando webpack para agrupar nuestra aplicación modular que produce un       /dist directorio desplegable . Una vez que el contenido de /dist se haya implementado en un servidor, los clientes (generalmente los navegadores) accederán a ese servidor para capturar el sitio y sus activos facilmente.
+    ![](img/performanceGrafica.jpg)
     
-+ **Seguridad**
+
+
+    + **Latencia de 100ms**
+        utilizar un retraso de renderizado de 100 ms, lo que significa que el estado del cliente "actual" siempre estará 100 ms por detrás del estado del juego del servidor. Por ejemplo, si el servidor está en el momento 150 , el estado representado en el cliente será el estado del servidor en el momento 50 :
+        
+        ![](img/100ms1.JPG)
+
+        Esto nos da un búfer de 100 ms para tolerar llegadas impredecibles de actualizaciones del juego:
+
+        ![](img/100ms2.JPG)
+
+        ![](img/performanceGrafica2.jpg)
+
+    + **Interpolación Lineal**
+        La otra mejora que haremos es usar interpolación lineal. Debido a la demora en el procesamiento, generalmente ya tendremos al menos 1 actualización antes de la hora actual del cliente. Cada vez que se llama, podemos interpolar linealmente entre las actualizaciones del juego inmediatamente antes y después del tiempo actual del cliente:
+
+        ![](img/100ms3.JPG)
+
+        Esto resuelve nuestro problema de velocidad de cuadros: ¡ahora podemos renderizar cuadros únicos con la frecuencia que queramos!
+    
++ # **Seguridad**
     + **Servidor EC2 (windows)**:
         + Grupo de seguridad habilitando solamente los puertos que usaremos en nuestra aplicación
+
+        ![](img/seguridadGrafica.jpg)
+
         + snapshots diarios que seran nuestro backup del servicio
+
     
 
 ## Software posiblemente a usar para la iniciacion del proyecto.
