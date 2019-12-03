@@ -38,6 +38,7 @@ class Player extends ObjectClass {
 
   onDealtDamage() {
     this.score += Constants.SCORE_BULLET_HIT;
+    this.hp += Constants.BULLET_DAMAGE/2;
   }
 
   serializeForUpdate() {

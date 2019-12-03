@@ -24,6 +24,7 @@ class Game {
   removePlayer(socket) {
     delete this.sockets[socket.id];
     delete this.players[socket.id];
+    
   }
 
   handleInput(socket, dir) {
@@ -73,6 +74,9 @@ class Game {
       if (player.hp <= 0) {
         socket.emit(Constants.MSG_TYPES.GAME_OVER);
         this.removePlayer(socket);
+        
+       
+        
       }
     });
 
