@@ -21,6 +21,7 @@ Promise.all([
   usernameInput.focus();
   playButton.onclick = () => {
     // Play!
+    sound.volume=0.2;
     sound.play();
     
     play(usernameInput.value);
