@@ -23,8 +23,12 @@ B0Tactics.io es una adaptación del juego agar.io en el cual el jugador compite 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ad9e9f48adfb40748d325958c97673a1)](https://www.codacy.com/manual/nicolaspatino/B0Tactics.io-Final?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=B0Tactics/B0Tactics.io-Final&amp;utm_campaign=Badge_Grade)
 
 ## *juegue!*
+
+## Servidor Basico free AWS
 http://54.167.73.186:8080/
 
+## Servidor Con mas potencia en AZURE
+http://13.92.95.224:8080/
 
 ## ¿ Qué necesidad cubre nuestro producto ?
 cubre una necesidad de Entretenimiento en la industria de videojuegos que cada dia es mas demandada.
