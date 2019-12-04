@@ -21,6 +21,7 @@ B0Tactics.io es una adaptación del juego agar.io en el cual el jugador compite 
 ![](img/game.PNG)
 
 [![CircleCI](https://circleci.com/gh/B0Tactics/B0Tactics.io-Final.svg?style=svg)](https://circleci.com/gh/B0Tactics/B0Tactics.io-Final)
+https://app.codacy.com/manual/nicolaspatino/B0Tactics.io-Final/dashboard
 
 ## *juegue!*
 http://54.167.73.186:8080/
