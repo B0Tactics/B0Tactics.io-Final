@@ -88,7 +88,7 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 
 ## Diagrama caso de uso usuario
 
-![](img/Casos_de_uso_user.PNG)
+![](img/caseuser.PNG)
 
 ## Diagrama de componentes
 
