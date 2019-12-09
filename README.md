@@ -118,7 +118,7 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 
     CPU AWS prueba con 20 personas | CPU AZURE prueba con mas de 40 personas
     ------------ | ------------- |
-    ![1](img/escalabilidad/pruebaAWS.jpg) | ![2](img/escalabilidad/pruebaAZURE.jpg)
+    ![1](img/escalabilidad/pruebaAWS.JPG) | ![2](img/escalabilidad/pruebaAZURE.jpg)
 
     como se puede observar la maquina free de AWS solo aguanto 20 personas ya que la maquina alcanzo su maximo de tope de recursos usados, en cambio con 40 personas la maquina mas potente de azure lo maximo que llego a usar fue un 60% de esta por un momento
 
