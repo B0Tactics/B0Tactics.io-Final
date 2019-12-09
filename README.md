@@ -96,7 +96,9 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 
 ## FrontEnd
 
-![](img/componentesFront.PNG)
+
+![](img/componentsFront.PNG)
+
 
 ## Diagrama de despliegue
 
