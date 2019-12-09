@@ -84,7 +84,7 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 
 ## Diagrama de Clases
 
-![](img/clientModel.png)
+![](img/clientModel.PNG)
 
 ## Diagrama caso de uso usuario
 
