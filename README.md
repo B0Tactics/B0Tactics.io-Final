@@ -92,7 +92,7 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 
 ## backend 
 
-![](img/ComponentesBack.PNG)
+![](img/componentsBack.PNG)
 
 
 ## Diagrama de despliegue
