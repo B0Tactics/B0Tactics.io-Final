@@ -173,8 +173,31 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
        * es una librería que nos permite manejar eventos en tiempo real mediante una conexión TCP y todo ello en JavaScript. Es
        realmente potente y podremos hacer que el real time en nuetra aplicacion sea realmente optimo.
 
-## *Manual de Usuario*
-      
+# *Manual de Usuario*
+
 https://github.com/B0Tactics/proyecto/blob/master/img/Manual%20de%20usuario.pdf
 
+# ¿Como ejecutar este proyecto?
 
+Built with [Node.js](https://nodejs.org/), [socket.io](https://socket.io/), and [HTML5 Canvas](https://www.w3schools.com/html/html5_canvas.asp).
+
+
++ Development
+
+Para comenzar, asegúrese de tener Node.js y NPM instalados. Luego,
+
+```bash
+$ npm install
+$ npm run develop
+```
+
+en tu maquina localmente.
+Para ejecutar el proyecto en produccion, simplemente:
+
++ Production
+
+```bash
+$ npm install
+$ npm run build
+$ npm start
+```
