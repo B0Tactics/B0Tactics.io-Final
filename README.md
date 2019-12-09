@@ -31,7 +31,7 @@ B0Tactics.io es una adaptación del juego agar.io en el cual el jugador compite 
 http://54.167.73.186:8080/
 
 + ## Servidor Con mas potencia en AZURE
-http://13.92.95.224:8080/
+http://52.234.134.249:8080/
 
 ## ¿ Qué necesidad cubre nuestro producto ?
 cubre una necesidad de Entretenimiento en la industria de videojuegos que cada dia es mas demandada.
