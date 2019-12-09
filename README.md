@@ -16,10 +16,6 @@
 * Andrés Rodríguez del toro 
 * Nicolas Patiño 
 
-## Presentación
-
-https://docs.google.com/presentation/d/192if7TSXtZs-wOOmf47rr69HogXPL70zYYwcHWOrNT8/edit#slide=id.g75df695e7d_0_42
-
 ## Resumen
 B0Tactics.io es una adaptación del juego agar.io en el cual el jugador compite contra otros jugadores por el primer puesto, la meta del juego es llegar a la mayor cantidad de puntos posibles alcanzables.
 
@@ -108,7 +104,7 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 
 ## Diagrama de despliegue
 
-![](img/deplyment.PNG)
+![](img/new.PNG)
 
 # **Atributos No Funcionales**
 
