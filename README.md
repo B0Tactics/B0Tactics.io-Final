@@ -88,6 +88,13 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 
 ![](img/Casos_de_uso_user.PNG)
 
+## Diagrama de componentes
+
+## backend 
+
+![](img/componentsBack.PNG)
+
+
 ## Diagrama de despliegue
 
 ![](img/deplyment.PNG)
@@ -125,7 +132,7 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
     en conclusion usando la maquina de AWS mas basica que es la free, logramos un Rendimiento aceptable asi que si se llegara a usar una maquina mas avanzada el proyecto puede crecer viablemente con nuevas funcionalidades.
 
 
-* # **Disponibilidad con AWS**
+* # **Disponibilidad con AZURE**
 
     * Manejamos una instancia EC2 en windows con amazon web services que garantiza que tengamos una       operabilidad del 99% de nuestro servidor las 24h del dia.
 
