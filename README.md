@@ -67,15 +67,13 @@ Al iniciar el juego el usuario aparece con un personaje de un tamaño predetermi
 
 ## Historias de usuario
 * **Historias Colaborativas :**
-   * Consumir jugador
-   * Conseguir Poderes
+   * Eliminar Jugador
+   * Recuperar vida
    * Conseguir puntos
 * **Historias no Colaborativas :**
-   * Registro
-   * Login
-   * Agregar skin
+   * Asignar Nombre
    * Unirse a partida
-   * Records
+   * Conseguir Puntos
 
 _las historias de usuario estarán disponibles en el siguiente link:_
 https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
@@ -83,6 +81,10 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 ## Diagrama Arquitectura General
 
 ![](img/arquitecture.png)
+
+## Diagrama de Clases
+
+![](img/clientModel.png)
 
 ## Diagrama caso de uso usuario
 
