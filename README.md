@@ -1,4 +1,7 @@
-![](img/logoB0TACTICS.io.png)
+
+<p align="center">
+<img src=".\img/logoB0TACTICS.io.png" />
+</p>
 
 
 
