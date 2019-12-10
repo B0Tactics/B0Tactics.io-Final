@@ -31,10 +31,10 @@ B0Tactics.io es una adaptación del juego agar.io en el cual el jugador compite 
 
 ## *juegue!*
 
-+ ## Servidor Basico free AWS
++ ## Servidor Basico free AWS (funcional)
 http://54.167.73.186:8080/
 
-+ ## Servidor Con mas potencia en AZURE
++ ## Servidor Con mas potencia en AZURE (caido por que toco cancelarlo al hacerle escalamiento vertical por una mejor maquina)
 http://52.234.134.249:8080/
 
 ## ¿ Qué necesidad cubre nuestro producto ?
