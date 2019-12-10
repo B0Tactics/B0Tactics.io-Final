@@ -181,6 +181,8 @@ https://tree.taiga.io/project/nicolaspatino-b0tacticsio/backlog
 
         * snapshots diarios que seran nuestro backup del servicio
 
+        ![](img/diagramaBackups.png)
+
 ## Software posiblemente a usar para la iniciacion del proyecto.
 
    * ### express:
